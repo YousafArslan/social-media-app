@@ -1,3 +1,6 @@
+I made this as a practice project for React Beginners. This app covers all the topics you will need to geta job or fine understanding of React Fundamentals
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
