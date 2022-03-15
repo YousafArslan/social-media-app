@@ -1,0 +1,21 @@
+.image-icon {
+  width: 50px;
+  /* border-radius: 30px; */
+}
+
+.people-image-icon {
+  width: 40px;
+  border-radius: 25px;
+}
+
+.height-overflow {
+  max-height: 400px;
+  overflow-y: scroll;
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
+  border-radius: 10px;
+}
+
+.margin-botton-unset {
+  margin-bottom: unset !important;
+}

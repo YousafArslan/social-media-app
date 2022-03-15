@@ -1,0 +1,52 @@
+.image-icon {
+  width: 60px;
+  border-radius: 20px;
+}
+
+.status-margin-left {
+  margin-left: 10px;
+}
+
+.status-margin-right {
+  margin-right: 2px;
+}
+.share-btn {
+  margin: unset !important;
+}
+.post-image-icon {
+  width: 50px;
+  border-radius: 20px;
+}
+.post-photo {
+  width: 100%;
+  align-items: center;
+}
+.width-auto {
+  width: auto !important;
+}
+.margin-unset {
+  margin: unset !important;
+}
+
+.like-heart {
+  width: 50px;
+}
+
+.heart-btn {
+  background-color: white;
+
+  border: 0px solid !important;
+}
+
+.heart-btn hover {
+  background-color: red;
+  color: red;
+}
+
+.dropdown-toggle::after {
+  display: none !important;
+}
+
+.like-text {
+  margin-bottom: unset !important;
+}

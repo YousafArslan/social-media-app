@@ -1,0 +1,8 @@
+* {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+body {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
+}

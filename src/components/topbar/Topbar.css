@@ -1,0 +1,14 @@
+.nav-link {
+  color: white !important;
+}
+.search-border-right {
+  border-radius: 0 20px 20px 0;
+}
+
+.search-border-left {
+  border-radius: 20px 0 0 20px;
+}
+.dropdown-image {
+  width: 25px;
+  border-radius: 14px;
+}
